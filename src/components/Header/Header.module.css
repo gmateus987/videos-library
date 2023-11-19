@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    height: 3.43rem;
+    top: 0;
+    width: 100%;
+    background-color: #161616;
+    border-bottom: 3px solid red;
+    color: white;
+}
+
+.header span {
+    font-size: 2rem;
+    font-weight: 500;
+    color: red;
+}
+
+
+.header a {
+    text-decoration: none;
+    color: #fff;
+    padding-inline: 1rem;
+    font-size: 1.125rem;
+}
